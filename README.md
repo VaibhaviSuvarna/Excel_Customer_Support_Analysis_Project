@@ -6,6 +6,12 @@ The **Customer Support Ticket Analysis** project uses Microsoft Excel to analyze
 
 The project focuses on understanding ticket distribution, response times, resolution times, ticket priorities, customer satisfaction, and ticket status to help identify opportunities for improving customer support operations.
 
+<img width="1267" height="687" alt="Screenshot 2026-10-14 141116" src="https://github.com/user-attachments/assets/9de3a011-bfa2-4ed3-8b44-5c826485f8e1" />
+<img width="1268" height="682" alt="Screenshot 2026-10-14 141104" src="https://github.com/user-attachments/assets/05f90086-a31e-4eeb-a83e-356621e80720" />
+<img width="1306" height="392" alt="Screenshot 2026-10-14 141052" src="https://github.com/user-attachments/assets/7dedc4cd-f1a8-48aa-a622-bd3ae471c837" />
+<img width="1260" height="732" alt="Screenshot 2026-10-14 141040" src="https://github.com/user-attachments/assets/ec360508-71ec-454b-a7df-0d5dcf4a1f4b" />
+
+
 ## Objectives
 
 - Analyze the total volume of customer support tickets.
